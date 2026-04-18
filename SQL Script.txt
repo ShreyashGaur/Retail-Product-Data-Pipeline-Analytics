@@ -5,7 +5,7 @@ CREATE TABLE products (
     category VARCHAR(50),
     price DECIMAL(10,2)
 );
--
+
 
 -- Insert data into Products table:
 INSERT INTO products VALUES
